@@ -1,0 +1,27 @@
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cadetblue;
+    font-size: 40px;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.purple {
+    color: darkslateblue;
+}
+
+.texto_grande {
+    font-size: 55px;
+}
+
+#titulo_h2 {
+    background: powderblue;
+}
+
+#titulo_h2-1 {
+    color: lightgoldenrodyellow;
+}

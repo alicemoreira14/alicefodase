@@ -1,0 +1,24 @@
+h2 {
+  color:indianred;
+} 
+
+p {
+    color: darkkhaki;
+}
+
+P{
+    color: darkslateblue;
+}
+
+h3 {
+   color: dimgrey;
+}
+
+/* 6 - classes */
+.paragrafo {
+    background-color: blueviolet;
+}
+
+.cor-textos {
+    color: coral;
+}

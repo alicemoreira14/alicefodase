@@ -1,0 +1,18 @@
+.caixa_widht {
+    border-widht: 2px;
+    border-style: solid;
+    border-color: cadetblue;
+
+    width: 200px;
+}
+
+.imagem_widht {
+    width: 300px;
+}
+
+.caixa_height {
+    border: 1px dashed cornflowerblue;
+
+    height: 50px;
+    width: 50px;
+}
