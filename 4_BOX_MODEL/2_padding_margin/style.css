@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 div {
     border: 4px dotted powderblue;
     width: fit-content;
@@ -17,4 +21,17 @@ div {
     padding-inline: 30px ;
     padding-block: 25px;
  
+}
+
+h1 {
+    border: 1px solid cadetblue;
+    margin-bottom: 20px;
+}
+
+.algum {
+    margin-bottom: 50px;
+}
+
+.outro{
+    margin-bottom: 50px;
 }
